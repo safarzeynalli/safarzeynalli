@@ -1,6 +1,4 @@
-### Hi there 👋
 
-<!--
 <h1 align="center">Hi I'm Safar Zeynallı</h1>
 <h3 align="center">A passionate IOS Developer developer</h3>
 
@@ -18,4 +16,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=safarzeynalli&show_icons=true&locale=en&layout=compact" alt="safarzeynalli" /></p>
 
--->
